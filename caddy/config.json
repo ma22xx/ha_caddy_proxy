@@ -10,6 +10,7 @@
     "boot": "auto",
     "map": ["share", "ssl:rw"],
     "host_network": true,
+    "ingress": true,
     "options": {
         "flags": [],
         "env_vars": []
