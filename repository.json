@@ -1,5 +1,5 @@
 {
-    "name": "Hass.io Caddy add-on",
-    "url": "https://github.com/korylprince/hassio-caddy",
-    "maintainer": "Kory Prince <korylprince@gmail.com>"
+    "name": "HA Cloud Caddy Proxy add-on",
+    "url": "https://github.com/ma22xx/ha_caddy_proxy",
+    "maintainer": "Ray Spencer <ma22xx@gmail.com>"
 }
